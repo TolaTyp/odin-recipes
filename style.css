@@ -1,0 +1,35 @@
+html {
+    display: flex;
+    margin-left: 10rem;;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.img_container {
+    background-color: lightblue;
+}
+
+.img_description {
+    font-size: 1em;
+    font-weight: 100;
+}
+
+ul {
+    background-color: lightcoral;
+}
+
+ol {
+    background-color: lightgreen;
+}
+
+p {
+    font-weight: bold;
+    font-size: 1.5em;    
+}
